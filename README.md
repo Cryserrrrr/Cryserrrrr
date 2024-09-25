@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cryser</h1>
 <h3 align="center">A Full Stack Developper From France</h3>
 
-- 🌱 I’m currently learning **VueJs, Loopback, nextJs, React Native**
+- 🌱 I’m currently learning **ThreeJs and React Three Fiber**
 
-- 👯 I’m looking to collaborate on **React projects**
-
-- 👨‍💻 You can discover me here : [https://eliottleduc.fr](https://eliottleduc.fr)
+- 👯 I’m looking to collaborate on **React Three Fiber project**
 
 - 💬 Ask me about **React !**
 
