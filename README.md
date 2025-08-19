@@ -27,7 +27,7 @@ I enjoy creating projects that are useful, fun, and (hopefully) make life a bit 
 ### 🎮 [Discord Bot – Karmine Corp Matches](https://github.com/Cryserrrrr/Kc-match-discord-bot)  
 A Discord bot that automatically notifies about **Karmine Corp matches** in *League of Legends*, *Valorant*, and *Rocket League* using the **PandaScore API**.  
 
-### 🎥 [Twitch Bot with Web Dashboard]([https://github.com/Cryserrrrr](https://github.com/Cryserrrrr/twitch-bot)  
+### 🎥 [Twitch Bot with Web Dashboard](https://github.com/Cryserrrrr/twitch-bot)  
 A comprehensive **Twitch bot** featuring a modern **web interface** for stream management.  
 Built with **Node.js**, it provides real-time chat moderation, Spotify integration, OBS control, and advanced broadcasting features.  
 
