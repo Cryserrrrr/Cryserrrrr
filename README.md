@@ -1,44 +1,32 @@
-# 👋 Hey, I'm Eliott  
+# Hey, I'm Eliott
 
-I'm a **full stack developer** who loves building apps around the web, esports, and streaming.  
-Most of the time you'll find me working with **React** on the front and **Node/NestJS** on the back.  
-I enjoy creating projects that are useful, fun, and (hopefully) make life a bit easier. 🚀  
+Solo dev. I build **Lowdout** — a suite of tools for esport coaches and organizations.
 
----
-
-## ⚡ What I enjoy  
-- ✨ Building apps that are **fast and user-friendly**  
-- 🛠 Starting projects from scratch and shipping them  
-- 🎮 Coding around **gaming & esports** (Discord/Twitch bots, tools for fans & streamers)  
-- 🌱 Always learning 
+Currently focused on **Lowdout Companion**, a desktop overlay for LoL coaches.
 
 ---
 
-## 🔧 Favorite Stack  
-- **Front**: React, Remix, Tailwind  
-- **Back**: Node.js, NestJS, Express  
-- **Database**: PostgreSQL, MongoDB  
-- **Tools**: Docker, GitHub Actions
+## Stack
+
+- **Desktop**: Tauri v2 (Rust), React, TypeScript
+- **Web**: Next.js, NestJS, PostgreSQL
+- **Tools**: Zustand, Konva.js, Tailwind
 
 ---
 
-## 🚀 Featured Projects  
+## Main project
 
-### 🎮 [Discord Bot – Karmine Corp Matches](https://github.com/Cryserrrrr/Kc-match-discord-bot)  
-A Discord bot that automatically notifies about **Karmine Corp matches** in *League of Legends*, *Valorant*, and *Rocket League* using the **PandaScore API**.  
-
-### 🎥 [Twitch Bot with Web Dashboard](https://github.com/Cryserrrrr/twitch-bot)  
-A comprehensive **Twitch bot** featuring a modern **web interface** for stream management.  
-Built with **Node.js**, it provides real-time chat moderation, Spotify integration, OBS control, and advanced broadcasting features.  
+### [Lowdout Companion](https://lowdout.gg/companion)
+A desktop annotation tool built for LoL coaches. Screen overlay, live timestamped notes, map snapshot, replay library — everything in one place.
 
 ---
 
-## 📊 GitHub Stats  
+## Fun projects
 
-![Eliott's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cryserrrrr&show_icons=true&theme=tokyonight)  
+### [Discord Bot – Karmine Corp Matches](https://github.com/Cryserrrrr/Kc-match-discord-bot)
+Auto-notifications for KC matches in LoL, Valorant and Rocket League via PandaScore.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cryserrrrr&layout=compact&theme=tokyonight)  
+### [Twitch Bot with Web Dashboard](https://github.com/Cryserrrrr/twitch-bot)
+Chat moderation, Spotify integration, OBS control — with a web interface.
 
 ---
-
-💡 *Always learning, always building cool stuff.*  
